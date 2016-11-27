@@ -1,0 +1,55 @@
+@CHARSET "UTF-8";
+
+body{
+	
+	background-color: #42cbf4;
+}
+
+
+div.social{
+	
+	margin-left:90%;
+	border:0px solid #0f799e;
+	margin-botton: 10%;
+	margin-top: 0%;
+}
+
+.nav{
+	
+	
+	margin:0px;
+	padding:0px;
+	list-style: none;
+	
+}
+
+.nav li{
+	
+	float: right;
+	width: 160px;
+	margin-top:0px;
+	position: relative;
+	
+	
+}
+
+
+.nav li a{
+	
+	
+	background: #2e4f4f;
+	color:#fffbbb;
+	display: inline-block;
+	padding:7px 28px;
+	text-decoration: none;
+	border-top: 4px solid red;
+	
+	
+	
+}
+
+.nav li a:HOVER {
+	color:white;
+	background: gray;
+}
+
